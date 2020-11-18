@@ -15,6 +15,7 @@ namespace Common
         [SerializeField] private Button _MainButton = null;
         [SerializeField] private Button _PresentButton = null;
         [SerializeField] private Button _GuideButton = null;
+        [SerializeField] private Button _SettingButton = null;
 
         [SerializeField] private SlideController _SlideController = null; 
 
@@ -25,6 +26,7 @@ namespace Common
             _MainButton.onClick.AddListener(OnClickMainButton);
             _PresentButton.onClick.AddListener(OnClickPresentButton);
             _GuideButton.onClick.AddListener(OnClickGuideButton);
+            _SettingButton.onClick.AddListener(OnClickSettingButton);
             
         }
 
@@ -46,6 +48,14 @@ namespace Common
             _SlideController.PlaySlide(3);
             Debug.Log("OnClickGuideButton");
             SceneManager.LoadScene("GuideScene");
+            
+        }
+
+        void OnClickSettingButton()
+        {
+            
+            Debug.Log("OnClickGuideButton");
+            // SceneManager.LoadScene("SettingScene");
             
         }
         

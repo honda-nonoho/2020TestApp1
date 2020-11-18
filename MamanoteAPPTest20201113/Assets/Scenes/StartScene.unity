@@ -237,26 +237,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1602209112949681024, guid: a13a823f59c2144dfa606f851c6fc5d9,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -99
-      objectReference: {fileID: 0}
-    - target: {fileID: 2033010143469340116, guid: a13a823f59c2144dfa606f851c6fc5d9,
-        type: 3}
-      propertyPath: m_Text
-      value: COIN
-      objectReference: {fileID: 0}
-    - target: {fileID: 4480222387610897594, guid: a13a823f59c2144dfa606f851c6fc5d9,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 194
-      objectReference: {fileID: 0}
-    - target: {fileID: 4480222387610897594, guid: a13a823f59c2144dfa606f851c6fc5d9,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 53
-      objectReference: {fileID: 0}
     - target: {fileID: 5496992463980626596, guid: a13a823f59c2144dfa606f851c6fc5d9,
         type: 3}
       propertyPath: m_LocalPosition.x
