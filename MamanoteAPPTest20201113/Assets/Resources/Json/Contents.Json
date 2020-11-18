@@ -1,0 +1,107 @@
+{
+
+   "data" :
+
+   [
+
+    {
+      "id" : 1,
+      "title" : "発達",
+      "subTitle" : "２歳児の発達について",
+      "mainImage" : "ImageMaturing",
+      "explanationText" : "comment",
+      "imageText" : "体の動かし方や言葉の使い方などが上手になり、赤ちゃんから一気にお兄さん・お姉さんらしくなる時期"
+    
+     },
+
+
+     {
+      "id" : 2,
+      "title" : "食事",
+      "subTitle" : "2歳児の食事について",
+      "mainImage" : "ImageMeal",
+      "explanationText" : "comment",
+      "imageText" : "食育や友達と食事をする経験などを通して"
+     },
+
+
+     {
+      "id" : 3,
+      "title" : "生活",
+      "subTitle" : "ふたば組1日の流れ(後期)",
+      "mainImage" : "ImageLife",
+      "explanationText" : "comment",
+      "imageText" : "生活発表会にむけて練習を楽しみながら取り組んでいます！"
+     },
+
+
+     {
+      "id" : 4,
+      "title" : "遊び",
+      "subTitle" : "手遊び・ご本・お歌の紹介",
+      "mainImage" : "ImagePlay",
+      "explanationText" : "comment",
+      "imageText" : "11月の手遊び・ご本・お歌の紹介"
+     },
+
+
+     {
+      "id" : 5,
+      "title" : "集団生活",
+      "subTitle" : "集団生活においての取り組み[2歳児/ふたば組]",
+      "mainImage" : "ImageGroupLife",
+      "explanationText" : "comment",
+      "imageText" : "「友達と一緒が楽しい」と感じられるよう、子どもたちの気持ちを受け止めたり、仲立ちとなったりして友達同士を繋いで行きます。"
+     },
+
+
+     {
+      "id" : 6,
+      "title" : "行事",
+      "subTitle" : "11月",
+      "mainImage" : "ImageEvent",
+      "explanationText" : "comment",
+      "imageText" : "ふたば組では運動会で行った「さんぽ」を遊びの中で、お友達と仲良く踊って楽しんでいる様子が見られます！"
+     },
+
+
+     {
+      "id" : 7,
+      "title" : "散歩",
+      "subTitle" : "お散歩についての取り組み[2歳児/ふたば組]",
+      "mainImage" : "ImageWalk",
+      "explanationText" : "comment",
+      "imageText" : "散歩コース・場所一覧"
+     },
+
+
+     {
+      "id" : 8,
+      "title" : "服装",
+      "subTitle" : "服装についてのお願い[2歳児/ふたば組]",
+      "mainImage" : "ImageClothes",
+      "explanationText" : "comment",
+      "imageText" : "着脱が少しずつ上手になってきて、脱いだものを畳んで片付けるお友達の様子も見られます。"
+     },
+
+
+     {
+      "id" : 9,
+      "title" : "教室",
+      "subTitle" : "体操教室・絵画教室について",
+      "mainImage" : "ImageClass",
+      "explanationText" : "comment",
+      "imageText" : "comming soon"
+     }
+     
+
+
+     
+]
+
+
+
+
+
+}
+

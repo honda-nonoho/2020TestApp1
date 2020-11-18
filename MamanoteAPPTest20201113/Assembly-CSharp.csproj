@@ -36,9 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\BasicKnowledge\BKDetailController.cs" />
+     <Compile Include="Assets\Script\BasicKnowledge\BKPrefabController.cs" />
+     <Compile Include="Assets\Script\BasicKnowledge\BKScrollViewController.cs" />
      <Compile Include="Assets\Script\Common\GlobalController.cs" />
      <Compile Include="Assets\Script\Common\HeaderController.cs" />
      <Compile Include="Assets\Script\Common\SlideController.cs" />
+     <Compile Include="Assets\Script\Model\JsonFile.cs" />
      <Compile Include="Assets\Script\StartScene\StartSceneController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2019.4.1f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>

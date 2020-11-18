@@ -1,0 +1,97 @@
+{
+
+   "data" :
+
+   [
+
+    {
+      "id" : 1,
+      "title" : "発達",
+      "subTitle" : "２歳児の発達について",
+      "mainImage" : "ImageMaturing",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 2,
+      "title" : "食事",
+      "subTitle" : "2歳児の食事について",
+      "mainImage" : "ImageMeal",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 3,
+      "title" : "生活",
+      "subTitle" : "ふたば組1日の流れ(後期)",
+      "mainImage" : "ImageLife",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 4,
+      "title" : "遊び",
+      "subTitle" : "手遊び・ご本・お歌の紹介",
+      "mainImage" : "ImagePlay",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 5,
+      "title" : "集団生活",
+      "subTitle" : "集団生活においての取り組み[2歳児/ふたば組]",
+      "mainImage" : "ImageGroupLife",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 6,
+      "title" : "行事",
+      "subTitle" : "行事カレンダー",
+      "mainImage" : "ImageEvent",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 7,
+      "title" : "散歩",
+      "subTitle" : "お散歩についての取り組み[2歳児/ふたば組]",
+      "mainImage" : "ImageWalk",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 8,
+      "title" : "服装",
+      "subTitle" : "服装についてのお願い[2歳児/ふたば組]",
+      "mainImage" : "ImageClothes",
+      "explanationText" : "comment"
+     },
+
+
+     {
+      "id" : 9,
+      "title" : "教室",
+      "subTitle" : "体操教室・絵画教室について",
+      "mainImage" : "ImageClass",
+      "explanationText" : "comment"
+     }
+     
+
+
+     
+]
+
+
+
+
+
+}
+

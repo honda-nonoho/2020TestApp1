@@ -32,17 +32,21 @@ namespace Common
         {
             _SlideController.PlaySlide(1);
             Debug.Log("OnClickMainButton");
+            SceneManager.LoadScene("HomeScene");
         }
         void OnClickPresentButton()
         {
             _SlideController.PlaySlide(2);
             Debug.Log("OnClickPresentButton");
+            SceneManager.LoadScene("PresentScene");
         }
 
         void OnClickGuideButton()
         {
             _SlideController.PlaySlide(3);
             Debug.Log("OnClickGuideButton");
+            SceneManager.LoadScene("GuideScene");
+            
         }
         
     }
